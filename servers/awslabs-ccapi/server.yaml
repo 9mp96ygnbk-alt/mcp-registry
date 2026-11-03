@@ -11,7 +11,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/3299148?v=4
 source:
   project: https://github.com/awslabs/mcp
-  commit: 636aca8e109b5559006044f035bb89c16e9e5410
+  commit: d12bbf3d4f7e5fd03a4136eb3c8cd9b9257196c9
   directory: src/ccapi-mcp-server
 config:
   description: Configure AWS credentials for Cloud Control API access
